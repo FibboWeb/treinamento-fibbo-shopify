@@ -1,0 +1,26 @@
+<div>
+  <p>{{ section.settings.title_section }}</p>
+</div>
+
+{% schema %}
+  {
+    "name": "Teste live seo",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title_section",
+        "label": "Insira aqui o titulo da seção",
+        "default": "Nenhum texto inserido"
+      }, {
+        "type": "image_picker",
+        "id": "image_background",
+        "label": "insira sua imagem aqui"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Teste live seo"
+      }
+    ]
+  }
+{% endschema %}

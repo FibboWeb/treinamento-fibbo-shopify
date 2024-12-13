@@ -79,7 +79,8 @@
     "teste_live_seo_zbiDD7": {
       "type": "teste-live-seo",
       "settings": {
-        "title_section": "Treinamento de shopify pra galerinha da liveSEO"
+        "title_section": "Treinamento de shopify pra galerinha da liveSEO",
+        "text_section": "Treinamento do jura"
       }
     }
   },
